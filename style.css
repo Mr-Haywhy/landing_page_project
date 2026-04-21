@@ -54,17 +54,20 @@ header ul li {
   align-items: center;
 }
 
+.hero-story {
+  width: 650px;
+}
+
 .hero h2 {
   font-size: 48px;
   font-weight: 900;
   font-family: "Quintessential", serif;
-  width: 600px;
 }
 
 .hero .hero-img img {
   object-fit: cover;
   height: 400px;
-  width: 500px;
+  width: 700px;
 }
 
 .hero img {
